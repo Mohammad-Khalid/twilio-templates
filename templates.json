@@ -1,0 +1,14 @@
+{
+    "Hello World": {
+        "gitUrl": "https://github.com/chey-ser/twilio-hello-world-bot-template.git"
+    },
+    "Restaurant Reservations": {
+        "gitUrl": "https://github.com/chey-ser/twilio-restaurant-reservations-bot-template.git"
+    },
+    "Appointment Scheduling": {
+        "gitUrl": "https://github.com/chey-ser/twilio-appointment-scheduling-bot-template.git"
+    },
+    "Hospitality": {
+        "gitUrl": "https://github.com/chey-ser/twilio-hospitality-bot-template.git"
+    }
+}
