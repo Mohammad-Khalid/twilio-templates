@@ -10,5 +10,17 @@
     },
     "Hospitality": {
         "gitUrl": "https://github.com/chey-ser/twilio-hospitality-bot-template.git"
+    },
+    "Customer Satisfaction Survey": {
+        "gitUrl": "https://github.com/chey-ser/twilio-customer-satisfaction-survey.git"
+    },
+    "FAQs": {
+        "gitUrl": "https://github.com/chey-ser/twilio-FAQs-internet-plan-bot-template.git"
+    },
+    "Lead Qualification": {
+        "gitUrl": "https://github.com/chey-ser/twilio-lead-qualification-bot-template.git"
+    },
+    "Real Estate": {
+        "gitUrl": "https://github.com/chey-ser/twilio-real-estate-bot-template.git"
     }
 }
